@@ -1,2 +1,7 @@
 # Do NOT cache manifest.patch.daybreakgames.com
 pls.patch.daybreakgames.com
+k.gjacky.com
+k.gjacky.com.cdn.ettdnsv.com
+k.gjacky.com.akamaized.net
+pubgmpdrcdn.intlgame.com
+pubgmpdrcdn.intlgame.com.edgesuite.net
