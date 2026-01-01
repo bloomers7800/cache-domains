@@ -13,7 +13,7 @@
 		{
 			"name": "bsg",
 			"description": "CDN for Battle State Games, Tarkov",
-			"domain_files": ["bsg.txt"]
+			"domain_files": ["pubgmobile.txt"]
 		},
 		{
 			"name": "cityofheroes",
